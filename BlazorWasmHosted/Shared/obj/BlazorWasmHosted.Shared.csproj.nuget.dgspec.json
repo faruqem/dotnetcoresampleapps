@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Shared/BlazorWasmHosted.Shared.csproj": {}
+  },
+  "projects": {
+    "/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Shared/BlazorWasmHosted.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Shared/BlazorWasmHosted.Shared.csproj",
+        "projectName": "BlazorWasmHosted.Shared",
+        "projectPath": "/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Shared/BlazorWasmHosted.Shared.csproj",
+        "packagesPath": "/Users/faruqe/.nuget/packages/",
+        "outputPath": "/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Shared/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/faruqe/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

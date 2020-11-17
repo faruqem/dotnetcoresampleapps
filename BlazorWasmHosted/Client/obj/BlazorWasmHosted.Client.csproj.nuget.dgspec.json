@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Client/BlazorWasmHosted.Client.csproj": {}
+  },
+  "projects": {
+    "/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Client/BlazorWasmHosted.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Client/BlazorWasmHosted.Client.csproj",
+        "projectName": "BlazorWasmHosted.Client",
+        "projectPath": "/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Client/BlazorWasmHosted.Client.csproj",
+        "packagesPath": "/Users/faruqe/.nuget/packages/",
+        "outputPath": "/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Client/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/faruqe/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Shared/BlazorWasmHosted.Shared.csproj": {
+                "projectPath": "/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Shared/BlazorWasmHosted.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Shared/BlazorWasmHosted.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Shared/BlazorWasmHosted.Shared.csproj",
+        "projectName": "BlazorWasmHosted.Shared",
+        "projectPath": "/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Shared/BlazorWasmHosted.Shared.csproj",
+        "packagesPath": "/Users/faruqe/.nuget/packages/",
+        "outputPath": "/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Shared/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/faruqe/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

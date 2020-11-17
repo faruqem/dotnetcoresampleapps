@@ -1,0 +1,8 @@
+/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Shared/bin/Release/netstandard2.1/BlazorWasmHosted.Shared.deps.json
+/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Shared/bin/Release/netstandard2.1/BlazorWasmHosted.Shared.dll
+/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Shared/bin/Release/netstandard2.1/BlazorWasmHosted.Shared.pdb
+/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Shared/obj/Release/netstandard2.1/BlazorWasmHosted.Shared.AssemblyInfoInputs.cache
+/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Shared/obj/Release/netstandard2.1/BlazorWasmHosted.Shared.AssemblyInfo.cs
+/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Shared/obj/Release/netstandard2.1/BlazorWasmHosted.Shared.csproj.CoreCompileInputs.cache
+/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Shared/obj/Release/netstandard2.1/BlazorWasmHosted.Shared.dll
+/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Shared/obj/Release/netstandard2.1/BlazorWasmHosted.Shared.pdb

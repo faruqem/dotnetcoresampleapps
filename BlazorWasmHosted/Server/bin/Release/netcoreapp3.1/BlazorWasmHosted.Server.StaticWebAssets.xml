@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Client/wwwroot/" />
+  <ContentRoot BasePath="/" Path="/Users/faruqe/Faruqe/DotNET Core/Sample Apps/dotnetcoresampleapps/BlazorWasmHosted/Client/bin/Release/netstandard2.1/wwwroot/" />
+</StaticWebAssets>
